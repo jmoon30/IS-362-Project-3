@@ -1,4 +1,8 @@
 # IS 362 – Project 3 (Chinook)
+John Moon <br>
+Prof. Cohen <br>
+IS 362 - Data Acquisition and Management <br>
+Nov. 3, 2025
 
 This repo/notebook demonstrates joining data across **five tables** in the Chinook database and loading the results into a pandas DataFrame.
 
